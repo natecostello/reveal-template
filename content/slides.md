@@ -43,3 +43,10 @@ Lets try some standard stuff:
 
 **bold**  
 *italics*
+
+---
+
+## Slide 4
+
+And some math:
+`$$ J(\theta_0,\theta_1) = \sum_{i=0} $$`
