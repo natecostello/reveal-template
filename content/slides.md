@@ -48,7 +48,7 @@ Lets try some standard stuff:
 
 ## Slide 4
 
-And some math:
+And some math (no local katex):
 $$ J(\theta_0,\theta_1) = \sum_{i=0} $$  
 
 $$ \frac{1}{2} = 0.5 $$
