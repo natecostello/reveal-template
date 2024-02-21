@@ -15,7 +15,7 @@ To embed an image, it's simple markdown:
 
 `![description](path-to-image)`
 ![cantina](content/cantina.jpeg)
-
+_caption test_
 
 ------
 
@@ -25,6 +25,11 @@ Like how many bullets?
 - one?
 - two?
 - three?
+- four.
+- five.
+- six!
+- seven!
+- eight!
 
 
 
