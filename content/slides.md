@@ -14,7 +14,7 @@ Note: This is to try a note
 To embed an image, it's simple markdown:
 
 `![description](path-to-image)`
-![cantina](/content/cantina.jpeg)
+![cantina](content/cantina.jpeg)
 
 
 ------
